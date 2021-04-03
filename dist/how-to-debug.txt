@@ -1,0 +1,2 @@
+Powershell£º
+New-Item -Type Junction -Target dist /path/to/module/cc.huix.blhx
